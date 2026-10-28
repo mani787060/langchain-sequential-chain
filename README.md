@@ -259,7 +259,3 @@ This project can be extended by:
 - LinkedIn: [Connect on LinkedIn](https://www.linkedin.com/in/mani-ratan-159963289/)
 
 ---
-
-If you find this project useful for learning LangChain and Generative AI, consider giving the repository a ⭐.
-
-**Learning goal:** Understand how multiple LLM operations can be composed into a single, reusable sequential workflow using LCEL.
